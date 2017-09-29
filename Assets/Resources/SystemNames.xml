@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<StarSystems>
+  <Imperial Name = "Coruscant"/>
+  <Imperial Name = "Mustafar" />
+  <Imperial Name = "Malastare"/>
+  <Imperial Name = "Mygeeto" />
+  <Imperial Name = "Corellia" />
+  <Imperial Name = "Mandalore"/>
+
+  <Rebel Name = "Mon Calamari" />
+  <Rebel Name = "Alderaan" />
+  <Rebel Name = "Kashyyk" />
+  <Rebel Name = "Naboo" />
+
+  <None Name = "Cato Neimoidia" />
+  <None Name = "Ord Mantell" />
+  <None Name = "Bespin" />
+  <None Name = "Sullust" />
+  <None Name = "Utapau" />
+  <None Name = "Ryloth" />
+  <None Name = "Geonosis"/>
+  <None Name = "Rodia" />
+  <None Name = "Bothawui" />
+  <None Name = "Nal Hutta" />
+  <None Name = "Toydaria" />
+  <None Name = "Kessel" />
+  <None Name = "Felucia" />
+  <None Name = "Saleucami" />
+  <None Name = "Dantooine"/>
+  <None Name = "Ilum"/>
+  <None Name = "Dathomir"/>
+  <None Name = "Endor"/>
+  <None Name = "Hoth"/>
+  <None Name = "Dagobah"/>
+  <None Name = "Tatooine"/>
+  <None Name = "Yavin"/>
+</StarSystems>
